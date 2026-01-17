@@ -1879,6 +1879,7 @@ __metadata:
     "@fastify/deepmerge": "npm:^3.1.0"
     "@mincho-js/transform-to-vanilla": "workspace:^"
     "@vanilla-extract/css": "npm:^1.17.4"
+    clsx: "npm:^2.1.1"
     eslint-config-custom: "workspace:^"
     prettier-config-custom: "workspace:^"
     tsconfig-custom: "workspace:^"
@@ -4531,7 +4532,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"clsx@npm:^2.0.0, clsx@npm:^2.1.0":
+"clsx@npm:^2.0.0, clsx@npm:^2.1.0, clsx@npm:^2.1.1":
   version: 2.1.1
   resolution: "clsx@npm:2.1.1"
   checksum: 10/cdfb57fa6c7649bbff98d9028c2f0de2f91c86f551179541cf784b1cfdc1562dcb951955f46d54d930a3879931a980e32a46b598acaea274728dbe068deca919
